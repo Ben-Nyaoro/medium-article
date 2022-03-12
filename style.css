@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    width: 600px;
+    width: 700px;
     margin: 20px auto;
 }
 
@@ -48,7 +48,7 @@ a:hover {
 }
 
 
-/* Media queries for (576px, 768px, 992px and 1200px).*/
+/** Media queries for (576px, 768px, 992px and 1200px).**/
 
 @media(max-width: 576px) {
     .container {
